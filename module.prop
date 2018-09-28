@@ -3,5 +3,5 @@ name=氧OS的天气替换回国内
 version=v1.0.0
 versionCode=2
 author=联盟少侠
-description=氧气OS替换会国内的天气（在安卓9.0上测试通过）
+description=氧气OS替换会国内的天气（在安卓9.0上测试通过）,建议手动清除天气的数据一次！
 minMagisk=17000
