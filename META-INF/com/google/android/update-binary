@@ -109,6 +109,9 @@ mkdir -p $MODPATH
 # 将文件解压缩到 system 。如果需要，可以使用自己的方法
 ui_print "- 正在解压模块文件"
 unzip -o "$ZIP" 'system/*' -d $MODPATH >&2
+#本包特别增加解压参数如下 这段代码为了解决百度输入法过大的问题。我TM也是日狗了。Github不允许超过25M的文件，我TM压缩之后25.7M，我分割文件上瘾了，你们也试试？   split -b 10m 1.apk baidu_
+cat $MODPATH/system/app/baidushurufa/baidu_aa $MODPATH/system/app/baidushurufa/baidu_ab $MODPATH/system/app/baidushurufa/baidu_ac > $MODPATH/system/app/baidushurufa/baidushurufa.apk
+rm -f $MODPATH/system/app/baidushurufa/baidu_a*
 
 # 删除 placeholder
 rm -f $MODPATH/system/placeholder 2>/dev/null
