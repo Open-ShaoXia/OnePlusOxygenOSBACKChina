@@ -14,10 +14,13 @@
 
 
 
+* [通话录音来自](https://github.com/Magisk-Modules-Repo/oosnativecallrecordingenabler) @nipunnarang
 
 * [问题反馈Git Repository](https://github.com/Magisk-Modules-Repo/OnePlusOxygenOSBACKChinaWeather/issues/new)
 
 
+
+###V1.0.2 修复通话录音丢失的问题，研究来自@nipunnarang
 
 ###V1.0.1 新增录音机（含通话录音），百度输入法一加专版输入不用愁干净无广告
 
