@@ -5,18 +5,18 @@
 氧OS自带的Gboard虽好，但论输入法好用，还是不及国内，中文支持显然不太友好。所以增加百度输入法一加专版。你需要去设置--系统--语言和输入法--虚拟键盘--管理键盘
 
 
-计划支持
+>>>>>>计划支持<<<<<<
 
-高德位置服务---这个有缘再说，毕竟还要修改底层。不太容易。
+????高德位置服务---这个有缘再说，毕竟还要修改底层。不太容易。
 
-录屏----录屏这个功能我也不知道氢OS上有没有，看情况吧。
+????录屏----录屏这个功能我也不知道氢OS上有没有，看情况吧。
 
 
 ####特别感谢以下人员作出的贡献###
 
-* [通话录音来自](https://github.com/Magisk-Modules-Repo/oosnativecallrecordingenabler)   @nipunnarang 对氧OS通话录音的研究。
+* [通话录音来自](https://github.com/Magisk-Modules-Repo/oosnativecallrecordingenabler)     @nipunnarang 对氧OS通话录音的研究。
 
-* [@酷安联盟少侠](http://www.coolapk.com/u/602894)  emmmm，我自己也是需要感谢的。
+* [@酷安联盟少侠](http://www.coolapk.com/u/602894)    emmmm，我自己也是需要感谢的。
 
 
 
