@@ -17,7 +17,7 @@
 
 * [通话录音来自](https://github.com/Magisk-Modules-Repo/oosnativecallrecordingenabler)     @nipunnarang 对氧OS通话录音的研究。
 
-* [@酷安联盟少侠](http://www.coolapk.com/u/602894)    emmmm，我自己也是需要感谢的。
+* [酷安联盟少侠](http://www.coolapk.com/u/602894)    emmmm，我自己也是需要感谢的。
 
 ## 问题反馈渠道
 * [问题反馈Git Repository](https://github.com/Magisk-Modules-Repo/OnePlusOxygenOSBACKChinaWeather/issues/new)
