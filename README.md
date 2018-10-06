@@ -19,6 +19,7 @@
 * [问题反馈Git Repository](https://github.com/Magisk-Modules-Repo/OnePlusOxygenOSBACKChinaWeather/issues/new)
 
 
+###V1.0.3 移除录音APK文件，已经不需要了，减少文件体积
 
 ###V1.0.2 修复通话录音丢失的问题，研究来自@nipunnarang
 
