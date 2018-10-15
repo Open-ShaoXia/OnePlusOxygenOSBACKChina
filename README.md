@@ -1,15 +1,18 @@
 ## OnePlus Oxygen OS BACK China 氧OS国内扩展包
-氧OS的天气是AccuWeather提供的，还是国内的天气比较适合我们，而且一加的天气还是十分纯净无广告。值得替换。
 
 The weather app of OxygenOS is provided by the AccuWeather. But in fact, the domestic app is more appropriate for our daily use and it can’t be denied that OnePlus Weather is pure and adless, which is a good choice to consider.
 
-氧OS的录音机功能并没有通话录音，氧OS通用。（这年头谁还不能录音呐）。
+It’s true that Gboard is a good IME but comparatively speaking, in Chinese inputting, domestic input methods is more user-friendly. So we decided to add the Baidu IME for OnePlus. You can get access to it by Settings – System – Languages & Input-Virtual Keyboard – Manage Keyboards.
 
 The recorder of OxygenOS gets no access to record the phone record.
 
+氧OS的天气是AccuWeather提供的，还是国内的天气比较适合我们，而且一加的天气还是十分纯净无广告。值得替换。
+
+氧OS的录音机功能并没有通话录音，氧OS通用。（这年头谁还不能录音呐）。
+
 氧OS自带的Gboard虽好，但论输入法好用，还是不及国内，中文支持显然不太友好。所以增加百度输入法一加专版。你需要去设置--系统--语言和输入法--虚拟键盘--管理键盘
 
-It’s true that Gboard is a good IME but comparatively speaking, in Chinese inputting, domestic input methods is more user-friendly. So we decided to add the Baidu IME for OnePlus. You can get access to it by Settings – System – Languages & Input-Virtual Keyboard – Manage Keyboards.
+
 
 ## Planning to Support 计划支持
 
