@@ -1,5 +1,4 @@
-## OnePlus Oxygen OS BACK China
-## 氧OS国内扩展包
+## OnePlus Oxygen OS BACK China 氧OS国内扩展包
 氧OS的天气是AccuWeather提供的，还是国内的天气比较适合我们，而且一加的天气还是十分纯净无广告。值得替换。
 
 The weather app of OxygenOS is provided by the AccuWeather. But in fact, the domestic app is more appropriate for our daily use and it can’t be denied that OnePlus Weather is pure and adless, which is a good choice to consider.
@@ -12,8 +11,7 @@ The recorder of OxygenOS gets no access to record the phone record.
 
 It’s true that Gboard is a good IME but comparatively speaking, in Chinese inputting, domestic input methods is more user-friendly. So we decided to add the Baidu IME for OnePlus. You can get access to it by Settings – System – Languages & Input-Virtual Keyboard – Manage Keyboards.
 
-## 计划支持
-## Planning to Support
+## Planning to Support 计划支持
 
 *高德位置服务---这个有缘再说，毕竟还要修改底层。不太容易。
 
@@ -23,8 +21,8 @@ Amap Positioning Service – We would discuss it later, after all, it’s not su
 
 Screen Recorder – I’m not sure if it’s supported by Oxygen OS and we’ll see later.
 
-## 特别感谢以下人员作出的贡献
-## Acknowledgements of fellow friends as follows:
+## Acknowledgements of fellow friends as follows 特别感谢以下人员作出的贡献
+
 * [通话录音来自](https://github.com/Magisk-Modules-Repo/oosnativecallrecordingenabler)     @nipunnarang 对氧OS通话录音的研究。
 
 Phone Recorder, via @nipunnarang
@@ -36,12 +34,10 @@ Phone Recorder, via @nipunnarang
 * [酷安夕风晨雨](http://www.coolapk.com/u/1148582)    感谢夕风晨雨大大的翻译。
 
 @夕风晨雨 from coolapk
-## 问题反馈
-## Feedback
+## Feedback 问题反馈
 * [问题反馈Git Repository](https://github.com/Magisk-Modules-Repo/OnePlusOxygenOSBACKChinaWeather/issues/new)
 
-## 更新日志
-## Update Log
+## Update Log 更新日志
 -V1.0.3 移除录音APK文件，已经不需要了，减少文件体积
 
 -V1.0.3 removed the Recorder apk, lessening the occupation of file volume
